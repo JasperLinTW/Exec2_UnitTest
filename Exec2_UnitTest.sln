@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispan.StockTrade", "Ispan.DockTrade\Ispan.StockTrade.csproj", "{CA55AEA6-6103-487E-A83A-54782096CBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispan.StockTradeTest", "Ispan.StockTradeTest\Ispan.StockTradeTest.csproj", "{A959773F-C26C-4670-85AA-9E83377C70A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA55AEA6-6103-487E-A83A-54782096CBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA55AEA6-6103-487E-A83A-54782096CBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA55AEA6-6103-487E-A83A-54782096CBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA55AEA6-6103-487E-A83A-54782096CBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A959773F-C26C-4670-85AA-9E83377C70A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A959773F-C26C-4670-85AA-9E83377C70A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A959773F-C26C-4670-85AA-9E83377C70A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A959773F-C26C-4670-85AA-9E83377C70A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36969622-833C-4DA1-BFE7-44081BD506B7}
+	EndGlobalSection
+EndGlobal
